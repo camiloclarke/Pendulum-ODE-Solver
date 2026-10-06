@@ -27,5 +27,12 @@ impossible. RK4 remains stable and accurate at both step sizes.
 - `main.py` — runs simulations and generates plots
 
 ## Run it
+```
 pip install -r requirements.txt
 python3 main.py
+```
+
+## Related projects
+- [Kalman-Filter-Pendulum](https://github.com/camiloclarke/Kalman-Filter-Pendulum) - sensor fusion for the same pendulum system
+- [F1-Tyre-Degradation](https://github.com/camiloclarke/F1-Tyre-Degradation) - model fitting and Kalman filtering on real F1 data
+- [Airfoil-Panel-Method](https://github.com/camiloclarke/Airfoil-Panel-Method) - 2D aerodynamic flow solver with convergence study
